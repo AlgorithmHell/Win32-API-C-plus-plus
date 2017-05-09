@@ -1,0 +1,7 @@
+﻿  Application.cpp
+g:\helga\programming\c++ 2nd sem\labs' solutions\zh lab c\zh lab c\application.cpp(286): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+g:\helga\programming\c++ 2nd sem\labs' solutions\zh lab c\zh lab c\application.cpp(287): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+g:\helga\programming\c++ 2nd sem\labs' solutions\zh lab c\zh lab c\application.cpp(299): warning C4018: '>=': signed/unsigned mismatch
+g:\helga\programming\c++ 2nd sem\labs' solutions\zh lab c\zh lab c\application.cpp(367): warning C4060: switch statement contains no 'case' or 'default' labels
+  Zh lab C.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\Zh lab C\Debug\Zh lab C.exe
+  Zh lab C.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\Zh lab C\Debug\Zh lab C.pdb (Full PDB)
