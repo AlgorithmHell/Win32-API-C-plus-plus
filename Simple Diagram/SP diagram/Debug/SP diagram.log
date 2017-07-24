@@ -1,0 +1,6 @@
+﻿  Application.cpp
+g:\helga\programming\c++ 2nd sem\labs' solutions\sp diagram\sp diagram\application.cpp(245): warning C4244: '=': conversion from 'LONG' to 'short', possible loss of data
+g:\helga\programming\c++ 2nd sem\labs' solutions\sp diagram\sp diagram\application.cpp(246): warning C4244: '=': conversion from 'LONG' to 'short', possible loss of data
+g:\helga\programming\c++ 2nd sem\labs' solutions\sp diagram\sp diagram\application.cpp(264): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SP diagram.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\SP diagram\Debug\SP diagram.exe
+  SP diagram.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\SP diagram\Debug\SP diagram.pdb (Full PDB)

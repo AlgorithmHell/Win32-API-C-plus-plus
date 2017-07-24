@@ -1,0 +1,4 @@
+﻿  Application.cpp
+g:\helga\programming\c++ 2nd sem\labs' solutions\olga shiryaeva finaltest\olga shiryaeva finaltest\application.cpp(230): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Olga Shiryaeva FinalTest.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\Olga Shiryaeva FinalTest\Debug\Olga Shiryaeva FinalTest.exe
+  Olga Shiryaeva FinalTest.vcxproj -> G:\Helga\Programming\c++ 2nd sem\labs' solutions\Olga Shiryaeva FinalTest\Debug\Olga Shiryaeva FinalTest.pdb (Full PDB)

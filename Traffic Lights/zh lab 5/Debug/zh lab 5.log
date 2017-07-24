@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\helga\programming\c++ 2nd sem\labs' solutions\zh lab 5\zh lab 5\main.cpp(247): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  zh lab 5.vcxproj -> D:\Helga\Programming\c++ 2nd sem\labs' solutions\zh lab 5\Debug\zh lab 5.exe
+  zh lab 5.vcxproj -> D:\Helga\Programming\c++ 2nd sem\labs' solutions\zh lab 5\Debug\zh lab 5.pdb (Full PDB)
